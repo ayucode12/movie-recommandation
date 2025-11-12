@@ -7,11 +7,12 @@ __pycache__/
 frontend/node_modules/
 frontend/build/
 
-# Data and Models
+# Data and models (do not push large datasets / trained models)
+data/
 *.pkl
 *.joblib
-data/*.csv
 
 # System files
+.vscode/
 .DS_Store
 Thumbs.db
