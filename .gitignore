@@ -12,9 +12,6 @@ frontend/build/
 *.joblib
 data/*.csv
 
-# VSCode
-.vscode/
-
 # System files
 .DS_Store
 Thumbs.db
